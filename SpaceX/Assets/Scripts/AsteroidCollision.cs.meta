@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ffa46fe7fe3f4b54baadcf10fcb738dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerShip: {fileID: 4123483295067703200, guid: e5e1067d107980645adc74a898c4c098,
+      type: 3}
+  - poofParticle: {fileID: 3703192276062047864, guid: a644bd0abcaa1b6488c121e07339c885,
+      type: 3}
+  - explosionSFX: {fileID: 8300000, guid: eeac7ff7e4ad44587b11429a7e7b8fc1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
